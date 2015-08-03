@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{From centralized to fully distributed Management}{}% 2
+\BOOKMARK [1][-]{section.3}{The Discovery initiative: towards a fully distributed Cloud-OS}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Architectural proposition}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Minimizing implementation effort, by leveraging OpenStack}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Towards a fully distributed OpenStack deployment}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Replacing the relational backend by a Key/value store}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Experimental validation on Grid'5000}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Future work}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Locality aware entities in OpenStack}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Adding a partition-aware mechanisms}{section.5}% 11
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 12
+\BOOKMARK [1][-]{section.7}{References}{}% 13

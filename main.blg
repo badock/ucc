@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: abbrv.bst
+Database file #1: main.bib
+Warning--can't use both volume and number fields in decandia:dynamo
+You've used 24 entries,
+            2118 wiz_defined-function locations,
+            629 strings with 8645 characters,
+and the built_in function-call counts, 9614 in all, are:
+= -- 918
+> -- 518
+< -- 13
++ -- 206
+- -- 181
+* -- 672
+:= -- 1486
+add.period$ -- 74
+call.type$ -- 24
+change.case$ -- 163
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 371
+empty$ -- 749
+format.name$ -- 181
+if$ -- 2093
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 20
+newline$ -- 118
+num.names$ -- 42
+pop$ -- 214
+preamble$ -- 1
+purify$ -- 141
+quote$ -- 0
+skip$ -- 294
+stack$ -- 0
+substring$ -- 497
+swap$ -- 126
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 92
+warning$ -- 1
+while$ -- 78
+width$ -- 26
+write$ -- 253
+(There was 1 warning)

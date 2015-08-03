@@ -1,0 +1,26 @@
+#+TITLE: DCC-2015 repository
+
+This repository contains files for the submission to DCC-2015.
+
+* Information about the submission
+- Website: https://sites.google.com/site/sigmetricsdcc2015/
+- Deadline: 13 march 2015
+
+* Plan
+** 1- Introduction
+** 2- Designing a fully distributed cloud
+*** 2.a- Reference architecture for IaaS
+*** 2.b- Distributing the clouds: From few large DCs to many spread Nano DCs
+** 3- Discovery proposal
+*** 3.a- Concept of Nano DCs on top of ISP backbone
+*** 3.b- Leveraging existing mechanisms
+** 4- Proof of concept: Distributed OpenStack
+*** 4.a- Replacing the relational backend by a K/V store
+*** 4.b- Validation via a proof of concept
+**** 4.b.1- Monosite
+**** 4.b.2- Multisite: 1 controller per site
+**** 4.b.3- Multisite: 10 controllers per site
+** 5- Future work: introducing data locality in OpenStack
+*** 5.a- Locality aware objects in OpenStack
+*** 5.b- Adding a partition-aware mechanisms
+** 6- Conclusion

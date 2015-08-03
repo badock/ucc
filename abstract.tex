@@ -1,0 +1,65 @@
+\begin{abstract}
+
+  Instead of the current trend consisting of building larger and
+  larger data centers (DCs) in few strategic locations, the DISCOVERY
+  initiative\footnote{\url{http://beyondtheclouds.github.io}}
+ proposes to leverage any network point of presences (PoP, \ie a
+  small or medium-sized network center) available through the
+  Internet. The key idea is to demonstrate a widely distributed Cloud
+  platform that can better match the geographical dispersal of users.
+  This involves radical changes in the way resources are managed, but
+  leveraging computing resources around the end-users will enable to
+  deliver a new generation of highly efficient and sustainable Utility
+  Computing (UC)
+  platforms, thus providing a strong alternative to the actual Cloud
+  model based on mega DCs (i.e. DCs composed of tens of thousands
+  resources).
+
+  Critical to the emergence of such distributed Cloud platforms is the
+  availability of appropriate operating mechanisms. Although, some of
+  protagonists of Cloud federations would argue that it might be
+  possible to federate a significant number of micro-Clouds hosted on
+  each PoP, we emphasize that federated approaches aim at delivering a
+  brokering service in charge of interacting with several Cloud
+  management systems, each of them being already deployed and operated
+  independently by at least one administrator. In other words, current
+  federated approaches do not target to operate, remotely, a
+  significant amount of UC resources geographically distributed but
+  only to use them. The main objective of DISCOVERY is to design,
+  implement, demonstrate and promote a unified system in charge of
+  turning a complex, extremely large-scale and widely distributed
+  infrastructure into a collection of abstracted computing resources
+  which is efficient, reliable, secure and friendly to operate and
+  use.
+
+  After presenting the DISCOVERY vision, we explain the different
+  choices we made, in particular the choice of revising the OpenStack
+  solution leveraging P2P mechanisms. We believe that such a strategy
+  is promising considering the architecture complexity of such systems
+  and the velocity of open-source initiatives.
+
+%
+%   By deploying the concept of micro/nano data-centers directly in network point
+%   of presences, it becomes possible to deliver a new generation of
+%   cloud computing infrastructure more efficient and sustainable. Among
+%   the different challenges we need to address to favor the adoption of such a model, the design and the
+%   implementation of a system in charge of turning such a complex and diverse
+%   network of resources into a collection of abstracted computing
+%   facilities that are convenient to administrate and use is critical.
+% % Although a reference architecture describing fundamental services constituting
+% % an IaaS manager has been proposed, a detailed overview
+% % of the mechanisms that are needed to build a massively distributed cloud is
+% % still missing.
+% %
+%   In this paper, we introduce the premises of such a system. The main
+%   contribution of our work is that we did not implement our
+%   prototype from scratch but instead slightly revisited the OpenStack
+%   solution. We believe that such a strategy is promising
+%   considering the architecture complexity of such systems and the velocity of open-source
+%   initiatives.
+%   We present few preliminary scenarios that enabled us to validate the
+%   correct behavior of our prototype across distinct servers/sites of
+%   the Grid'5000 testbed.
+\keywords{Cloud computing, IaaS Architecture, OpenStack, NoSQL, Peer
+  to Peer}
+\end{abstract}
